@@ -1,1 +1,1 @@
-[![hxragi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hxragi&show_icons=true&theme=tokyonight)]
+![hxragi top stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hxragi&layout=compact)
