@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://count.getloli.com/get/@hxragi?theme=original-new" alt="Profile views"/><br>
-  <img src="https://skillicons.dev/icons?i=rust,postgres,git,github,bash,arch&perline=8" alt="Tech stack"/>
+  <img src="https://i.pinimg.com/1200x/08/28/95/0828958ec0d0ba74c3b413d45c98e060.jpg">
 </p>
-
-https://i.pinimg.com/1200x/08/28/95/0828958ec0d0ba74c3b413d45c98e060.jpg
 
 ## Who Am I
 
