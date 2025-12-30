@@ -3,6 +3,8 @@
   <img src="https://skillicons.dev/icons?i=rust,postgres,git,github,bash,arch&perline=8" alt="Tech stack"/>
 </p>
 
+https://i.pinimg.com/1200x/08/28/95/0828958ec0d0ba74c3b413d45c98e060.jpg
+
 ## Who Am I
 
 Hey there! I'm a developer passionate about creating efficient and reliable systems. I enjoy working with high-performance programs and low-level programming.
