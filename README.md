@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://pin.it/1iFnJiLap">
+  <img src="https://i.pinimg.com/originals/50/cf/7a/50cf7a58c9c197ea8031f651b40b3ee5.gif">
 </p>
 
 ## Who Am I
