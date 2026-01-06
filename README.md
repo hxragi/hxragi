@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/50/cf/7a/50cf7a58c9c197ea8031f651b40b3ee5.gif">
-</p>
+<div align="center">
+
+<img src="https://i.pinimg.com/originals/50/cf/7a/50cf7a58c9c197ea8031f651b40b3ee5.gif">
 
 ## Who Am I
 
@@ -29,6 +29,6 @@ Hey there! I'm a developer passionate about creating efficient and reliable syst
 
 ---
 
-<p align="center">
-  <i>Open to collaboration and interesting projects!</i>
-</p>
+<i>Open to collaboration and interesting projects!</i>
+
+</div>
