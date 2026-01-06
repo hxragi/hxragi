@@ -15,14 +15,14 @@ Learning system architecture and backend development
 
 **Languages & Frameworks:**
 
-Rust - Systems programming and high-performance applications
-PostgreSQL - Database management and design
+- Rust - Systems programming and high-performance applications
+- PostgreSQL - Database management and design
 
 **Development Tools:**
 
-Git & GitHub - Version control and collaboration
-Bash - Shell scripting and automation
-Arch Linux - My daily driver OS
+- Git & GitHub - Version control and collaboration
+- Bash - Shell scripting and automation
+- Arch Linux - My daily driver OS
 
 ## How to Reach Me
 
