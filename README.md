@@ -8,24 +8,24 @@ Hey there! I'm a developer passionate about creating efficient and reliable syst
 
 ## What I'm Currently Working On
 
-- Building projects with Rust for performance and safety
-- Learning system architecture and backend development
+Building projects with Rust for performance and safety
+Learning system architecture and backend development
 
 ## Tools & Technologies I Use
 
 **Languages & Frameworks:**
-- Rust - Systems programming and high-performance applications
-- PostgreSQL - Database management and design
+Rust - Systems programming and high-performance applications
+PostgreSQL - Database management and design
 
 **Development Tools:**
-- Git & GitHub - Version control and collaboration
-- Bash - Shell scripting and automation
-- Arch Linux - My daily driver OS
+Git & GitHub - Version control and collaboration
+Bash - Shell scripting and automation
+Arch Linux - My daily driver OS
 
 ## How to Reach Me
 
-- GitHub: [@hxragi](https://github.com/hxragi)
-- Email: [mixintrace.work@gmail.com](mailto:mixintrace.work@gmail.com)
+GitHub: [@hxragi](https://github.com/hxragi)
+Email: [mixintrace.work@gmail.com](mailto:mixintrace.work@gmail.com)
 
 ---
 
