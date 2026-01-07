@@ -4,7 +4,7 @@
 
 ## Who Am I
 
-Hey there! I'm a developer passionate about creating efficient and reliable systems. I enjoy working with high-performance programs and low-level programming.
+Hey there! I'm a developer passionate about creating efficient and reliable systems. I enjoy working with high-performance programs and low-level programming
 
 ## What I'm Currently Working On
 
