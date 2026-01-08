@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/50/cf/7a/50cf7a58c9c197ea8031f651b40b3ee5.gif">
+<img src="assets/pitou.gif">
 
 ## Who Am I
 
