@@ -14,15 +14,17 @@ Learning system architecture and backend development
 ## Tools & Technologies I Use
 
 **Languages & Frameworks:**
-
-- Rust - Systems programming and high-performance applications
-- PostgreSQL - Database management and design
+<ul style="list-style: none; padding-left: 20px;">
+  <li>• Rust - Systems programming and high-performance applications</li>
+  <li>• PostgreSQL - Database management and design</li>
+</ul>
 
 **Development Tools:**
-
-- Git & GitHub - Version control and collaboration
-- Bash - Shell scripting and automation
-- Arch Linux - My daily driver OS
+<ul style="list-style: none; padding-left: 20px;">
+  <li>• Git & GitHub - Version control and collaboration</li>
+  <li>• Bash - Shell scripting and automation</li>
+  <li>• Arch Linux - My daily driver OS</li>
+</ul>
 
 ## How to Reach Me
 
