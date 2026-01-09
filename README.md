@@ -33,6 +33,10 @@ GitHub: [@hxragi](https://github.com/hxragi)
 <br/>
 Email: [mixintrace.work@gmail.com](mailto:mixintrace.work@gmail.com)
 
+## Stats
+![hxragi's GitHub stats](https://github-readme-stats.vercel.app/api?username=hxragi&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hxragi&layout=compact&theme=tokyonight)
+
 ---
 
 <i>Open to collaboration and interesting projects!</i>
