@@ -13,14 +13,7 @@ Learning system architecture and backend development
 
 ## Tools & Technologies I Use
 
-<img src="https://skill-icons.dev/icons?i=rust" />
-<img src="https://skill-icons.dev/icons?i=postgres" />
-<img src="https://skill-icons.dev/icons?i=arch" />
-<img src="https://skill-icons.dev/icons?i=neovim" />
-<img src="https://skill-icons.dev/icons?i=git" />
-<img src="https://skill-icons.dev/icons?i=github" />
-<img src="https://skill-icons.dev/icons?i=bash" />
-<img src="https://skill-icons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=rust,postgresql,git,github,neovim,linux" />
 
 ## How to Reach Me
 
