@@ -33,10 +33,6 @@ GitHub: [@hxragi](https://github.com/hxragi)
 <br/>
 Email: [mixintrace.work@gmail.com](mailto:mixintrace.work@gmail.com)
 
-## Stats
- <img src="https://github-readme-stats.vercel.app/api?username=hxragi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxragi&theme=tokyonight&layout=compact&hide_border=true"/>
-
   <br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hxragi&theme=tokyonight&hide_border=true"/>
