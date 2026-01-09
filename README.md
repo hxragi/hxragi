@@ -2,7 +2,8 @@
 
 <img
   src="assets/74da09ca998760d55b4795968444c7c7(1).jpg"
-  style="max-width: 500px; width: 100%; height: auto;"
+  alt="Profile image"
+  style="max-width: 260px; width: 100%; height: auto;"
 >
 
 ## Who Am I
