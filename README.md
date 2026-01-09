@@ -28,8 +28,8 @@ Learning system architecture and backend development
 
 ## How to Reach Me
 
-<span>GitHub: [@hxragi](https://github.com/hxragi)</span>
-<span>Email: [mixintrace.work@gmail.com](mailto:mixintrace.work@gmail.com)</span>
+GitHub: [@hxragi](https://github.com/hxragi)<br/>
+Email: [mixintrace.work@gmail.com](mailto:mixintrace.work@gmail.com)
 
 ---
 
