@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/74da09ca998760d55b4795968444c7c7(1).jpg" style="max-width: 210px; width: 100%; height: auto;">
+<img src="assets/74da09ca998760d55b4795968444c7c7(1).jpg" width="240">
 
 ## Who Am I
 
