@@ -13,29 +13,20 @@ Learning system architecture and backend development
 
 ## Tools & Technologies I Use
 
-**Languages & Frameworks:**
-
-Rust - Systems programming and high-performance applications
-</br>
-PostgreSQL - Database management and design
-
-**Development Tools:**
-
-Git & GitHub - Version control and collaboration
-</br>
-Bash - Shell scripting and automation
-</br>
-Arch Linux - My daily driver OS
+<img src="https://skill-icons.dev/icons?i=rust" />
+<img src="https://skill-icons.dev/icons?i=postgres" />
+<img src="https://skill-icons.dev/icons?i=arch" />
+<img src="https://skill-icons.dev/icons?i=neovim" />
+<img src="https://skill-icons.dev/icons?i=git" />
+<img src="https://skill-icons.dev/icons?i=github" />
+<img src="https://skill-icons.dev/icons?i=bash" />
+<img src="https://skill-icons.dev/icons?i=linux" />
 
 ## How to Reach Me
 
 GitHub: [@hxragi](https://github.com/hxragi)
 <br/>
 Email: [mixintrace.work@gmail.com](mailto:mixintrace.work@gmail.com)
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hxragi&theme=tokyonight&hide_border=true"/>
 
 ---
 
