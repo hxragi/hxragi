@@ -15,21 +15,22 @@ Learning system architecture and backend development
 
 **Languages & Frameworks:**
 <ul style="list-style: none; padding-left: 20px;">
-  <li>• Rust - Systems programming and high-performance applications</li>
-  <li>• PostgreSQL - Database management and design</li>
+  <li>Rust - Systems programming and high-performance applications</li>
+  <li>PostgreSQL - Database management and design</li>
 </ul>
 
 **Development Tools:**
 <ul style="list-style: none; padding-left: 20px;">
-  <li>• Git & GitHub - Version control and collaboration</li>
-  <li>• Bash - Shell scripting and automation</li>
-  <li>• Arch Linux - My daily driver OS</li>
+  <li>Git & GitHub - Version control and collaboration</li>
+  <li>Bash - Shell scripting and automation</li>
+  <li>Arch Linux - My daily driver OS</li>
 </ul>
 
 ## How to Reach Me
-
-- GitHub: [@hxragi](https://github.com/hxragi)
-- Email: [mixintrace.work@gmail.com](mailto:mixintrace.work@gmail.com)
+<ul style="list-style: none; padding-left: 20px;">
+  <li>GitHub: [@hxragi](https://github.com/hxragi)</li>
+  <li>Email: [mixintrace.work@gmail.com](mailto:mixintrace.work@gmail.com)</li>
+</ul>
 
 ---
 
