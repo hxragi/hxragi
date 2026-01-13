@@ -20,6 +20,7 @@ Learning system architecture and backend development
 GitHub: [@hxragi](https://github.com/hxragi)
 <br/>
 Email: [mixintrace.work@gmail.com](mailto:mixintrace.work@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=dark)](https://discord.gg/988093270083121162)
 
 ---
 
