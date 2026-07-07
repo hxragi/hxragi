@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/a.png" width="100%">
+<img src="assets/a2.png" width="100%">
 
 ## Who Am I
 
